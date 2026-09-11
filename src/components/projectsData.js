@@ -67,7 +67,7 @@ export const projectsData = [
         description2: "E no, non è il tempo che ci metti a trovare parcheggio nelle vie del centro, ma la durata di Amami Teatro. Un flusso ininterrotto in cui il Teatro Marrucino di Chieti si trasforma in un organismo vivo fatto di corpi, voci, silenzi e gente che non sta ferma un secondo.",
         description3: "Come lo racconti un caos così intenso senza farlo sembrare la solita roba ingessata? Semplice: muovendoti alla stessa folle velocità del festival.",
         description4: "Ogni contenuto era un buco tra la folla per spiare il festival tra teaser per far salire l’hype, backstage per farti vedere tutto quello che col cavolo che vedi se te ne stai seduto in platea e trend per farti capire che Amami Teatro non è un posto per vecchie signore con la pelliccia.",
-        description5: "Risultato? Un feed schizofrenico e bellissimo. Palco, pubblico e artisti si sfiorano, si incrociano e si fondenisfino finché non si capisce più chi recita e chi guarda. Un racconto che ti tira dentro, minuto dopo minuto, e distrugge la distanza tra te e lo spettacolo.",
+        description5: "Risultato? Un feed schizofrenico e bellissimo. Palco, pubblico e artisti si sfiorano, si incrociano e si fondono finché non si capisce più chi recita e chi guarda. Un racconto che ti tira dentro, minuto dopo minuto, e distrugge la distanza tra te e lo spettacolo.",
         interazioni: "+157.000 PERSONE RAGGIUNTE",
         tags: [
             "art direction",
