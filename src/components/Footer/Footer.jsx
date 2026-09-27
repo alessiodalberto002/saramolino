@@ -97,7 +97,7 @@ const Footer = () => {
                             </AnimatePresence> */}
                             {/* Bottone Scarica Portfolio */}
                             <motion.a
-                                href="/portfolio.pdf" // 👈 Sostituisci "tuo-portfolio.pdf" con il nome esatto del file nella cartella public
+                                href="/portfolio.pdf" 
                                 download="Portfolio_Sara_Molino.pdf" // Nome che avrà il file scaricato
                                 className="flex items-center gap-2 border border-black text-black px-3 py-1 rounded-full text-xs font-medium transition-colors duration-200"
                                 whileHover={{ y: -2, scale: 1.03 }}
